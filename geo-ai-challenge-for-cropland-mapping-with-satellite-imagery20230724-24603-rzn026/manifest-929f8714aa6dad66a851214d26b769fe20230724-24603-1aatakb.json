@@ -1,0 +1,40 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2023-07-24T10:41:01+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "GeoAI_cropland_mapping_starter_notebook.ipynb",
+      "filesize": 85237,
+      "description": "The provided Colab starter notebook uses Google Earth Engine to download satellite data for modelling. This provides  a start-to-end pipeline on how to get the data and build models.",
+      "created_at": "2023-07-05 09:18:54 UTC",
+      "updated_at": "2023-07-24 10:40:15 UTC"
+    },
+    {
+      "filename": "SampleSubmission.csv",
+      "filesize": 27010,
+      "description": "Is an example of what your submission file should look like. The order of the rows does not matter, but the names of the \"ID\" must be correct.",
+      "created_at": "2023-07-24 10:40:37 UTC",
+      "updated_at": "2023-07-24 10:40:51 UTC"
+    },
+    {
+      "filename": "Test.csv",
+      "filesize": 55682,
+      "description": "Test resembles Train.csv but without the target-related columns. This is the dataset on which you will apply your model to.",
+      "created_at": "2023-07-24 10:40:37 UTC",
+      "updated_at": "2023-07-24 10:40:55 UTC"
+    },
+    {
+      "filename": "Train.csv",
+      "filesize": 58704,
+      "description": "Train contains the target. This is the dataset that you will use to train your model.",
+      "created_at": "2023-07-24 10:40:37 UTC",
+      "updated_at": "2023-07-24 10:41:01 UTC"
+    }
+  ]
+}
